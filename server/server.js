@@ -1,5 +1,5 @@
 require("dotenv").config({ quiet: true });
-
+app.set("trust proxy", 1);
 
 const express = require("express");
 const mongoose = require("mongoose");
