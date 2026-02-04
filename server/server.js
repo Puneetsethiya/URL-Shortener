@@ -21,7 +21,7 @@ const isProduction = process.env.NODE_ENV === "production";
 // CORS
 app.use(
   cors({
-    origin: process.env.CLIENT_URL || true,
+    origin:true,
     credentials: true
   })
 );
