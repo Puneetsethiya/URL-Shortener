@@ -18,15 +18,15 @@ Features:<br>
 • REST API based architecture<br>
 
 Tech Stack:<br>
-MongoDB<br>
-Express.js<br>
-Node.js<br>
-React.js<br>
+• MongoDB<br>
+• Express.js<br>
+• Node.js<br>
+• React.js<br>
 
 Run Locally:<br>
-Clone repository<br>
-Run npm install<br>
-Start development server using: npm run dev<br>
+• Clone repository<br>
+• Run npm install<br>
+• Start development server using: npm run dev<br>
 
 Future Improvements:<br>
 • Analytics tracking<br>
